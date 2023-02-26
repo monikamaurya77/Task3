@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}    
+
+
+.main-container{
+    display: flex;
+    justify-content: center;
+}   
+
+.form-inline{
+    margin-top: 2rem;
+}
+
+.form-control{
+    width: 11rem;
+    height: 3rem;
+    margin: 2rem;
+    font-size: large;
+}
+
+.card{
+   width: 15%;
+   
+}
+
+.card-header{
+    padding: 1rem;
+    width: 30rem;
+    background: #4471c4;
+}
+
+.table{
+    width: 30rem;
+    height: 25rem;
+}
+
+.days{
+    font-size: large;
+}
+
+#calendar-body{
+    text-align: center;
+}
+
+#searchForm{
+  margin-top: 40rem;
+  margin-left: -32rem;
+}
+
+input {
+    padding: 12px;
+    width: 15rem;
+    border: 1.5px solid black;
+    font-size: larger;
+}
+
+button {
+    padding: 12px 22px;
+    border: none;
+    color: white;
+    font-size: larger;
+    background-color: #4471c4;
+}
+
