@@ -64,25 +64,25 @@ button {
     font-size: larger;
     background-color: #4471c4;
 }
-
 @media only screen and (max-width: 600px) {
     
     .form-control {
-        width: 4rem;
+        width: 6rem;
         height: 2.5rem;
         margin-left: -3rem;
     }
     .card-header{
         padding: 1rem;
-        width: 15rem;
+        width: 17rem;
         background: #44c448;
         margin-left: -6rem;
     }
     .table{
-        width: 12.5rem;
+        width: 17rem;
         height: 15rem;
         margin-left: -6rem;
     }
+    
     #searchForm{
         margin-top: 30rem;
         text-align: center;
@@ -90,20 +90,18 @@ button {
       }
       
     input {
-        padding: 6px;
+        padding: 8px;
         width: 8rem;
-        border: 1.5px solid black;
        font-size: small;
         margin-left: -18rem;
     }
     
     button {
-        padding: 6px 12px;
-        border: none;
-        color: white;
+        padding: 8.5px 12px;
         font-size: small;
         background-color: #4471c4;
     }
     
   }
+
 
